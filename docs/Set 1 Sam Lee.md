@@ -21,6 +21,6 @@
  </figure>
 
 <figure markdown>
-![fat cat](assets/Maurice-2.jpg){ width+"350"}
+![fat cat](assets/Maurice-2.jpg){ width+"300"}
 <figcaption>Maurice</figcaption>
  </figure>
