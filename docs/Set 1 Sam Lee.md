@@ -20,4 +20,7 @@
  <figcaption>Original Size</figcaption>
  </figure>
 
-![fat cat](assets/Maurice-2.jpg)
+<figure markdown>
+![fat cat](assets/Maurice-2.jpg){ width+"350"}
+<figcaption>Maurice</figcaption>
+ </figure>
