@@ -1,7 +1,7 @@
 # First instruction set
 
 <figure markdown>
-![stay home](assets/Stay%20Home%20Ikea.png){ width="200" }
+![stay home](assets/Stay%20Home%20Ikea.png "Caption here"){ width="200" }
  <figcaption>Width 200</figcaption>
 </figure>
 
@@ -14,3 +14,4 @@
 ![stay home](assets/Stay%20Home%20Ikea.png){ width="400" }
  <figcaption>Width 400</figcaption>
 </figure>
+
