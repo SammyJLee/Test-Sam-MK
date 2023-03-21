@@ -15,4 +15,7 @@
  <figcaption>Width 400</figcaption>
 </figure>
 
+<figure markdown>
 ![stayhome4](./assets/Stay%20Home%20Ikea.png)
+ <figcaption>Original Size</figcaption>
+ </figure>
