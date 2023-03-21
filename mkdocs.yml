@@ -3,4 +3,6 @@ site_name: Sam and Sam Test
 theme:
   name: material
 
-
+markdown_extensions:
+  - attr_list
+  - md_in_html
