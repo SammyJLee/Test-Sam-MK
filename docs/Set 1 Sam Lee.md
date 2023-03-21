@@ -20,4 +20,4 @@
  <figcaption>Original Size</figcaption>
  </figure>
 
- 
+![fat cat](assets/Maurice-2.jpg)
