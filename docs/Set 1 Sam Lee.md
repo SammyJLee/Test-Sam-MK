@@ -1,3 +1,5 @@
 # First instruction set
 
-![stay home](assets/Stay%20Home%20Ikea.png) { align=left }
+<figure markdown>
+![stay home](assets/Stay%20Home%20Ikea.png){ width="200" }
+</figure>
